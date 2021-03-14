@@ -1,7 +1,7 @@
 # Hi, I'm Jari
 
-[This](https://vanmenxel.nl) is my website.
+[My website](https://vanmenxel.nl).
 
-Here are some of my projects:
+Some of my projects:
 
 - [walkthedogs.nl](https://walkthedogs.nl)
